@@ -1,5 +1,5 @@
 NAME=middleman_base
-VERSION=2.2
+VERSION=2.3
 
 build:
 	docker build -t ${NAME} .
