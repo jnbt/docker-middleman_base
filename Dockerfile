@@ -1,4 +1,4 @@
-FROM ruby:2.1
+FROM ruby:2.2
 
 MAINTAINER Jonas Thiel <jonas@thiel.io>
 
